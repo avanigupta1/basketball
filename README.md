@@ -1,6 +1,6 @@
 # Basketball Fantasy Line-Up Generator 
 
-Full process outlined [here](https://github.com/avanigupta1/basketball/blob/master/EDA.ipynb).
+Fully outlined process [here](https://medium.com/analytics-vidhya/fantasy-basketball-lineup-generator-d4fbd65680f1); all code [here](https://github.com/avanigupta1/basketball/blob/master/EDA.ipynb).
 
 
 
